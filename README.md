@@ -28,5 +28,3 @@
 </p>
 
 <br />
-
-![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Khant&show_icons=true&theme=tokyonight)
