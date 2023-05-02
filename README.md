@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working at [Polymerize](https://polymerize.io/)
 
-- 👯 Ready to collaborate on [Kaggle](https://www.kaggle.com/devkhant24)
 
-- 📫 How to reach me **devkhant46@gmail.com**
+
+- 📫 How to reach me **devkhant24@gmail.com**
 
 - 🎯 2023 Goal : **Daily contribute to Open Source projects**
 
