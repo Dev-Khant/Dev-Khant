@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **devkhant24@gmail.com**
 
-- 🎯 2023 Goal : **Daily contribute to Open Source projects**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
