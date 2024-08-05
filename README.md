@@ -3,7 +3,7 @@
 I’m currently learning more about Language Models, Vision Transformers, and Evaluation of RAGs. Also, I'm actively contributing to ML open-source projects. You can know about my experiences [Resume](https://drive.google.com/file/d/1kNZKvTkUIB_oyO4sjdp00OkRnBABOUkq/view?usp=sharing).
 
 
-- 🔭 I’m currently working with [Polymerize](https://github.com/Polymerize) to build ML pipelines and features around LLMs.
+- 🔭 I’m Founding AI Engineer at [Mem0](https://github.com/mem0ai) where we are building memory for AGI :)
 - 🌱 I love to read research papers on ML.
 - 🌏 Used to participate in [Kaggle competitions](https://www.kaggle.com/devkhant24)(4x Expert).
 - 💬 Ask me anything regarding my work and code [here](https://github.com/Dev-Khant/Dev-Khant/issues) (**Please tag me @Dev-Khant in your comment**).
