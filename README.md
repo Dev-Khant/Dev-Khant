@@ -8,7 +8,7 @@ I'm currently learning more about Language Models, Vision Transformers, and Eval
 - 🌏 Used to participate in [Kaggle competitions](https://www.kaggle.com/devkhant24) (4x Expert)
 
 ### GitHub Stats & Achievements
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://trendshift.io/developers/6669" target="_blank">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://trendshift.io/developers/6669" target="_blank">
   <img src="https://trendshift.io/api/badge/developers/6669" alt="Dev-Khant | Trendshift" width="250" height="55"/>
 </a>
 <br />
