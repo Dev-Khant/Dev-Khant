@@ -5,6 +5,7 @@ I'm currently learning more about Language Models, Vision Transformers, and Eval
 ### What I'm up to:
 - 🔭 I'm Founding AI Engineer at [Mem0](https://github.com/mem0ai) where we are building memory for AGI :)
 - 🌱 I love to read research papers on ML
+- 📄 My first big research paper: https://arxiv.org/abs/2504.19413
 - 🌏 Used to participate in [Kaggle competitions](https://www.kaggle.com/devkhant24) (4x Expert)
 
 ### GitHub Stats & Achievements
