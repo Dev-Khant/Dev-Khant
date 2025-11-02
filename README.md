@@ -4,7 +4,7 @@ I'm currently learning more about Language Models, Vision Transformers, and Eval
 
 ### What I'm up to:
 - 🛠️ Currently building [Steadwing](https://www.steadwing.com/)!!
-- 🔭 I was Founding mlAI Engineer at [Mem0](https://github.com/mem0ai)
+- 🔭 I was Founding ML Engineer at [Mem0](https://github.com/mem0ai)
 - 🌱 I love to read research papers on ML
 - 📄 My first big research paper: https://arxiv.org/abs/2504.19413
 - 🌏 Used to participate in [Kaggle competitions](https://www.kaggle.com/devkhant24) (4x Expert)
