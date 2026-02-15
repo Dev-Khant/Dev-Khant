@@ -1,18 +1,26 @@
-### Hi there, I'm Dev 👋
+### Hi, I'm Dev 👋
 
-I'm currently learning more about Language Models, Vision Transformers, and Evaluation of RAGs. Also, I'm actively contributing to ML open-source projects. You can know about my experiences through my [Resume](https://drive.google.com/file/d/1kNZKvTkUIB_oyO4sjdp00OkRnBABOUkq/view?usp=sharing).
+Co-founder & CTO at [Steadwing](https://www.steadwing.com/) - building an autonomous on-call engineer that triages production alerts, performs root cause analysis, and suggests fixes across code, infra, CI/CD, and cloud.
 
-### What I'm up to:
-- 🛠️ Currently building [Steadwing](https://www.steadwing.com/)!!
-- 🔭 I was Founding ML Engineer at [Mem0](https://github.com/mem0ai)
-- 🌱 I love to read research papers on ML
-- 📄 My first big research paper: https://arxiv.org/abs/2504.19413
-- 🌏 Used to participate in [Kaggle competitions](https://www.kaggle.com/devkhant24) (4x Expert)
+Previously Founding ML Engineer at [Mem0 (YC S24)](https://github.com/mem0ai), where I:
+- Led a 45k+ ⭐ open-source repository  
+- Owned backend & AWS infra (systems serving 5k+ req/s)  
+- Co-built OpenMemory Cloud (MCP)  
+- Shipped integrations across Microsoft, Raycast, CrewAI, and more  
 
-### GitHub Stats & Achievements
+Background in MLOps, Applied AI, and production-scale AI infra.
+
+Co-authored a paper accepted at ECAI 2025:  
+📄 https://arxiv.org/abs/2504.19413
+
+Kaggle 4x Expert.
+
+---
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://trendshift.io/developers/6669" target="_blank">
   <img src="https://trendshift.io/api/badge/developers/6669" alt="Dev-Khant | Trendshift" width="250" height="55"/>
 </a>
+
 <br />
-<br />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-khant&show_icons=true&locale=en" alt="dev-khant" />
+
