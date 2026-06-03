@@ -2,15 +2,15 @@
 
 Co-founder & CTO at [Steadwing](https://www.steadwing.com/) - building an autonomous on-call engineer that triages production alerts, performs root cause analysis, and suggests fixes across code, infra, CI/CD, and cloud.
 
-Previously Founding ML Engineer at [Mem0 (YC S24)](https://github.com/mem0ai), where I:
-- Led a 45k+ ⭐ open-source repository  
-- Owned backend & AWS infra (systems serving 5k+ req/s)  
+Previously Founding Engineer at [Mem0 (YC S24)](https://github.com/mem0ai), where I:
+- Led a 53k+ ⭐ open-source repository  
+- Owned backend & AWS infra (systems serving 8k+ req/s)  
 - Co-built OpenMemory Cloud (MCP)  
 - Shipped integrations across Microsoft, Raycast, CrewAI, and more  
 
 Background in MLOps, Applied AI, and production-scale AI infra.
 
-Co-authored a paper accepted at ECAI 2025:  
+Co-authored a paper accepted at ECAI 2025 (500+ citations):  
 📄 https://arxiv.org/abs/2504.19413
 
 Kaggle 4x Expert.
