@@ -10,10 +10,12 @@ Previously Founding Engineer at [Mem0 (YC S24)](https://github.com/mem0ai), wher
 
 Background in MLOps, Applied AI, and production-scale AI infra.
 
-Co-authored a paper accepted at ECAI 2025 (500+ citations):  
+Co-authored a paper accepted at ECAI 2025 (1100+ citations):  
 📄 https://arxiv.org/abs/2504.19413
 
-Kaggle 4x Expert.
+[Google Scholar Profile](https://scholar.google.com/citations?user=7-DZMHUAAAAJ&hl=en)
+
+[Kaggle 4x Expert](https://www.kaggle.com/devkhant24)
 
 ---
 
